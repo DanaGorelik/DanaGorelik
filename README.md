@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Dana Gorelik
-### A Computer Science Student at - <img src="https://user-images.githubusercontent.com/102851148/236928870-f80d4bfb-d607-480c-b4d0-684e65c17a6c.png" alt="Image description" width="400" height="300"> Technion - Israel Institute of Technology
+### <div id="header" align="center"> <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/> </div>
+### <div id="badges" align="center"><a href ="https://www.linkedin.com/in/dana-gorelik-0b1995222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></div>
+### <h1 align="center"> hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+### I'm Dana Gorelik
+### 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Technion_logo.svg/1421px-Technion_logo.svg.png" alt="Image description" width="28" height="40"> A Computer Science Student at - Technion - Israel Institute of Technology
 
-<!--
-**DanaGorelik/DanaGorelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
