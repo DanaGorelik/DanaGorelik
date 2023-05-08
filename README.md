@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Dana Gorelik
+### A Computer Science Student at -![image](https://user-images.githubusercontent.com/102851148/236928870-f80d4bfb-d607-480c-b4d0-684e65c17a6c.png)
+ Technion - Israel Institute of Technology
 
 <!--
 **DanaGorelik/DanaGorelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
