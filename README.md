@@ -4,8 +4,7 @@
 ### :woman_technologist: About Me :
 ### I'm Dana Gorelik :star:
 ### I am a Computer Science Student  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="40">  at - Technion - Israel Institute of Technology <img src="https://media.giphy.com/media/4y8dYBbWYe9oKlJdge/giphy.gif" width="30">
-🌱: I’m starting 3rd year (3-4 semesters left)
-
+🌱: I’m on my final year of studying.
 :seedling: I'm currently taking a Udemy course: “Web development Bootcamp”. <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30">
 ### <hr>
 ### Skills:
